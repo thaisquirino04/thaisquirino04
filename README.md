@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thais Quirino
-- 👀 I’m interested  aprendizado e  muito conhecimento.
+- 👀 I’m interested  aprendizado e  buscar  muito conhecimento.
 - 🌱 I’m currently learning  Git e GitHub e Devops.
 - 📫 How to reach me email: thaisquirino0402@gmail.com
 
