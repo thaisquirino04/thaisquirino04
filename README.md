@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Thais Quirino 🙋‍♀️
 
-- 👩‍🎓 Cursando 4º Semestre Análise e Desenvolvimento de sistemas.
-- ✍ Realizando Bootcamps: cultura Devops / Front-End / Back-End.
-- 👩‍🏫 Em busca de uma oportunidade na área Tecnologica como Dev.
+- 👩‍🎓 Cursando 5º Semestre Análise e Desenvolvimento de sistemas.
+- ✍ Bootcamps: cultura Devops / Front-End / Back-End / Flutter.
+- 👩‍🏫 Trabalhando atualmente como Dev Backend / Pagonxt Merchants Solutions.
 - 😊 Pronouns: ela/dela
 
 <div align="center">
